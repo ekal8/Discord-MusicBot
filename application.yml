@@ -2,10 +2,11 @@ server: # REST and WS server
   port: 2333
   address: 0.0.0.0
 lavalink:
-  Host : lava.link
-Port : 80
-Password : 123
-    sources:
+Host : lava.devin-dev.xyz
+Port : 3888
+Password : "ayraiscute"
+secure: false
+sources:
       youtube: true
       bandcamp: true
       soundcloud: true
